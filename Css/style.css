@@ -71,3 +71,9 @@ form {
 .formItem:hover {
     color: indianred;
 }
+
+@media(min-width:600px) {
+    body {
+        background-color: red;
+    }
+}
